@@ -66,6 +66,20 @@ Recursive use of EdgeTOP. Can be used as a backgroud.
 <br/>
 A simple GPU particle system implemented in GLSL. Keyboard 1 to reset drawing, 2 to reset particle postion, 3 to change camera postion, 4 to reset camera postion, 5 to toggle blur mode.
 <br/><br/>
+**Recursive_Displacement**
+<br/>
+Something that resemples a fluid simulation based on SlopeTOP and DisplacementTOP. Warped UV can be used in UV_lookup to warp any image.
+<br/><br/>
+**Voronoi_Diffusion**
+<br/>
+Something that resemples a reaction-diffusion simulation based on SlopeTOP and DisplacementTOP. Keyboard 1 to reset simulation, 2 to change noise seed, 3 to swtich between moving noise and static noise (try pressing 3,1,2,2,2....), 4 to turn on camera as input.
+<br/><br/>
+**Line_Displacement**
+<br/>
+Inspired by the album cover of Unknown Pleasures by Joy Division. Turn on "Selfie" mode for a astract portrait of yourself (Keyboard 1 to cache snapshots, 2 to save).
+<br/><br/>
+
+
 
 ## Project toe
 
