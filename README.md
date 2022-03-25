@@ -2,6 +2,7 @@
 ## Components & sketches tox
 
 These are some comps for common patterns I created to speed up my work flow, as well as some sketches I made.
+<br/><br/>
 
 ### CHOPs.tox
 **Compare**
@@ -83,8 +84,7 @@ Something that resemples a reaction-diffusion simulation based on SlopeTOP and D
 **Line_Displacement**
 <br/>
 Inspired by the album cover of Unknown Pleasures by Joy Division. Turn on "Selfie" mode for a astract portrait of yourself (Keyboard 1 to cache snapshots, 2 to save).
-
-
+<br/><br/>
 
 ## Project toe
 
