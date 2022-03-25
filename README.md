@@ -4,6 +4,7 @@
 These are some comps for common patterns I created to speed up my work flow, as well as some sketches I made.
 
 ### CHOPs.tox
+<br/>
 **Compare** 
 <br/>
 An OP that compare the two inputs, if the second input is not provided then the parameter Cuttoff is used.
@@ -19,8 +20,10 @@ An OP that returns the frame count at a custom framerate, used for effects that 
 **Multi_Swtich_Index**
 <br/>
 An OP that returns the index that wraps around 0-(length-1), increments when a pulse is given to the input. Usually used with any kind of Switch OP.
+<br/>
 
 ### TOPs.tox
+<br/>
 **Frame_Trail**
 <br/>
 An OP that composite frame trails with custom number of trailing frames and intervals between them.
@@ -40,7 +43,10 @@ Simple GLSL TOP that returns the UV Coordinates.
 **UV_Lookup**
 <br/>
 A special case of DisplaceTOP, using the second input.rg as UV to sample the first input.(Better performance than a GLSL implementation)
+<br/>
+
 ### Effects.tox
+<br/>
 **Film_Defects**
 <br/>
 Add scratch lines and dust for a filmic look. Can either composite over the input or just use input as resolution source.
@@ -56,8 +62,10 @@ A filter that creates a pecil sketch look. Usually, a Edge TOP is used before th
 **Ripple**
 <br/>
 A filter displace the image based on a ripple looking effect.
-<br/><br/>
+<br/>
+
 ### Sketches.tox
+<br/>
 **Edge_Germ**
 <br/>
 Recursive use of EdgeTOP. Can be used as a backgroud.
@@ -79,7 +87,7 @@ Something that resemples a reaction-diffusion simulation based on SlopeTOP and D
 **Line_Displacement**
 <br/>
 Inspired by the album cover of Unknown Pleasures by Joy Division. Turn on "Selfie" mode for a astract portrait of yourself (Keyboard 1 to cache snapshots, 2 to save).
-<br/><br/>
+<br/>
 
 
 
