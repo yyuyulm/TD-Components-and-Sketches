@@ -5,7 +5,7 @@ These are some comps for common patterns I created to speed up my work flow, as 
 
 ### CHOPs.tox
 <br/>
-**Compare** 
+**Compare**
 <br/>
 An OP that compare the two inputs, if the second input is not provided then the parameter Cuttoff is used.
 <br/><br/>
