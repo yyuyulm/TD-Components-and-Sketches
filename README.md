@@ -72,9 +72,9 @@ Something that resemples a fluid simulation based on SlopeTOP and DisplacementTO
 <br/><br/>
 **Voronoi_Diffusion**
 <br/>
-Something that resemples a reaction-diffusion simulation based on SlopeTOP and DisplacementTOP. Keyboard 1 to reset simulation, 2 to change noise seed, 3 to swtich between moving noise and static noise (try pressing 3,1,2,2,2....), 4 to turn on camera as input.
+Something that resemples a reaction-diffusion simulation based on SlopeTOP and DisplacementTOP. Keyboard 1 to reset simulation, 2 to change noise seed, 3 to swtich between moving noise and static noise ([try pressing 3,1,2,2,2....](https://youtu.be/8dL384bUOKk&t=4m47s)), 4 to turn on camera as input.
 <br/>
-[See example here](https://youtu.be/8dL384bUOKk&t=1m30s)
+[See example here](https://youtu.be/8dL384bUOKk&t=7m49s)
 <br/><br/>
 **Line_Displacement**
 <br/>
@@ -88,11 +88,13 @@ Inspired by the album cover of Unknown Pleasures by Joy Division. Turn on "Selfi
 These are the toe file for my past projects.
 <br/><br/>
 **Live Music Video**
+<br/>
 [Render](https://youtu.be/uZxCMToazwE)
 <br/>
 [Recording](https://youtu.be/YFhH8oFhrsI)
 <br/><br/>
 **The Escape**
+<br/>
 [Render]()
 <br/>
 [Recording](https://youtu.be/8dL384bUOKk)
