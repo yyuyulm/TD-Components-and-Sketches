@@ -19,6 +19,7 @@ An OP that returns the frame count at a custom framerate, used for effects that 
 **Multi_Swtich_Index**
 <br/>
 An OP that returns the index that wraps around 0-(length-1), increments when a pulse is given to the input. Usually used with any kind of Switch OP.
+<br/>
 
 ### TOPs.tox
 **Frame_Trail**
@@ -40,6 +41,7 @@ Simple GLSL TOP that returns the UV Coordinates.
 **UV_Lookup**
 <br/>
 A special case of DisplaceTOP, using the second input.rg as UV to sample the first input.(Better performance than a GLSL implementation)
+<br/>
 
 ### Effects.tox
 **Film_Defects**
@@ -57,6 +59,7 @@ A filter that creates a pecil sketch look. Usually, a Edge TOP is used before th
 **Ripple**
 <br/>
 A filter displace the image based on a ripple looking effect.
+<br/>
 
 ### Sketches.tox
 **Edge_Germ**
