@@ -73,7 +73,8 @@ Something that resemples a fluid simulation based on SlopeTOP and DisplacementTO
 **Voronoi_Diffusion**
 <br/>
 Something that resemples a reaction-diffusion simulation based on SlopeTOP and DisplacementTOP. Keyboard 1 to reset simulation, 2 to change noise seed, 3 to swtich between moving noise and static noise (try pressing 3,1,2,2,2....), 4 to turn on camera as input.
-(See example here)[https://youtu.be/8dL384bUOKk]
+<br/>
+[See example here](https://youtu.be/8dL384bUOKk&t=1m30s)
 <br/><br/>
 **Line_Displacement**
 <br/>
